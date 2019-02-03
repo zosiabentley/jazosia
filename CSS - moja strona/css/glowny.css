@@ -1,0 +1,134 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+h1{
+  margin-bottom:0;
+  font-family: 'Amatic SC', cursive;
+  font-weight: lighter;
+  font-size: 550%;
+  color:  #a4c3db;
+  line-height: 200%;
+
+}
+p{
+  line-height: 2;
+}
+
+.jestem{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  margin: 0 auto;
+  color:  #a4c3db;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  margin: 40px auto 0 auto;
+  color:  #a4c3db;
+}
+hr{
+  margin:100px auto;
+  width:5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  color:#bfd9f2;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+ color: #4479a2
+}
+a{
+  color: #4479a2;
+  margin: 6px;
+  line-height:3;
+  text-decoration: none;
+
+}
+a:hover{
+  color:#EAF6F6;
+}
+.skill-row{
+  margin: 100px auto;
+  width:50%;
+  text-align:left;
+  line-height: 1.8;
+}
+.kalendarz{
+   height:130px;
+   float:left;
+   margin-right: 15px;
+
+}
+.ciasto{
+  float:right;
+  margin-left: 15px;
+
+
+}
+.middle-container{
+  margin: 100px 0;
+}
+.wstep{
+  width:40%;
+  margin: 0 auto;
+
+}
+.gora{
+  background-color: #faf9f9;
+  padding-top:100px;
+
+}
+.bez{
+  font-weight: 900;
+}
+.chmura2{
+  position:absolute;
+  left:240px;
+  bottom:233px;
+}
+.chmura1{
+  position:absolute;
+  right:240px;
+  top:100px;
+}
+
+.contact-me{
+  line-height: 30px;
+}
+
+.bottom-container{
+  background-color: #add2c9;
+  height:100px;
+
+}
+.bottom-container p{
+  margin-top:0;
+  color: #FFFFFF;
+}
+.butn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 21px;
+  background: #bbdbf0;
+  padding: 14px 40px 14px 40px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #dceefa;
+  text-decoration: none;
+}
+
+.contact-me .butn{
+  margin-bottom:500px;
+  width: 40%
+}
